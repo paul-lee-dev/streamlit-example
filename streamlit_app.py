@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/12qrH51ZsfBZ9JjZG2Ame9OwpQnDVQPXz
 """
 
-!pip install streamlit matplotlib finance-datareader beautifulsoup4
+# !pip install streamlit matplotlib finance-datareader beautifulsoup4
 # 원하는 기업 : 롯데쇼핑 (023530)
 # 조회기간 : (2023-02-22 ~ 2024-02-22)
 
