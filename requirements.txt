@@ -1,3 +1,5 @@
 altair
 pandas
 streamlit
+finance-datareader
+beautifulsoup4
